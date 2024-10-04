@@ -1,4 +1,4 @@
-# ModResorts Demo Application
+# ModResorts Demo Application - testing changes
 
 ## About TEST
 This version of the applicaiton has been migrated from IBM WebSphere Application Server 9. It contains all the changes needed for the applicaiton to run on Liberty.
